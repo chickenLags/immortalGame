@@ -1,0 +1,19 @@
+{
+  "name": "immortalgame",
+  "version": "1.0.0",
+  "description": "web / text based game based on CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chickenLags/immortalGame.git"
+  },
+  "author": "Roy Schouten",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chickenLags/immortalGame/issues"
+  },
+  "homepage": "https://github.com/chickenLags/immortalGame#readme"
+}
